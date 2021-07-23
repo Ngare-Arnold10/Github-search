@@ -1,5 +1,7 @@
 # GithubSearch
 
+This is a siple website application enable users to view github details using github username.
+COPYRIGHT (c)2021 Ngare Arnold.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
 ## Development server
