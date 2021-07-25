@@ -1,0 +1,13 @@
+.nav {
+    background-color: navy;
+    width: 100%;
+}
+
+.container {
+    margin-top: 3%;
+}
+
+.link:first-child {
+    margin-left: 10%;
+}
+
