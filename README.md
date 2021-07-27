@@ -26,7 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Live Site
 
-[View] ()
+[View] (https://ngare-arnold10.github.io/Github-search/)
 
 ## Technologies Used
 
